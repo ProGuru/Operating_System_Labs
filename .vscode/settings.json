@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bit": "cpp",
+        "charconv": "cpp",
+        "complex": "cpp",
+        "numeric": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp"
+    }
+}
